@@ -1,6 +1,6 @@
 # danpages.me - A Full-Stack Go Web Application
 
-This repository contains the complete source code for my personal portfolio, blog, and custom-built financial ledger, available at [danpages.me](https://danpages.me). The entire application is built from scratch in Go, following professional software architecture and security best practices.
+This repository contains the complete source code for my personal portfolio, blog, and custom-built financial ledger, available at [danielpage.me](https://danielpage.me). The entire application is built from scratch in Go, following professional software architecture and security best practices.
 
 ## Core Features
 
